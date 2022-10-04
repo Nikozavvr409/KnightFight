@@ -1,2 +1,5 @@
-package org.example.knight.inventory;public interface IArmor {
+package org.example.knight.inventory;
+
+public interface ICalcArmor {
+    void calcArmor();
 }

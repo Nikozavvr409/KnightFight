@@ -1,2 +1,4 @@
-package org.example.knight;public class MyException {
+package org.example.knight;
+
+public class MyException extends RuntimeException {
 }

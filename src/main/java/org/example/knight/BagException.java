@@ -1,2 +1,4 @@
-package org.example.knight;public class BagException {
+package org.example.knight;
+
+public class BagException extends RuntimeException {
 }

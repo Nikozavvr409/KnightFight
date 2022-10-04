@@ -1,2 +1,9 @@
-package org.example.knight.inventory;public class TypesInventory {
+package org.example.knight.inventory;
+
+import org.example.knight.inventory.armor.Helmet;
+
+public enum TypesInventory {
+    HELMET(new Helmet());
+    TypesInventory(Helmet helmet) {
+    }
 }

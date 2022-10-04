@@ -1,5 +1,5 @@
 package org.example.knight.inventory;
 
-public interface IPrice {
-    float getPrice();
+public interface ICalcPrice {
+    void calcPrice();
 }

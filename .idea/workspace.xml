@@ -5,24 +5,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2eab5ee-c6b0-43e6-abea-7459d5deda79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/BagException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/BagException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/Knight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/ICalcArmor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/ICalcArmor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/ICalcDamage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/ICalcDamage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/ICalcPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/ICalcPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/InventoryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/InventoryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/TypesInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/TypesInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/armor/Armor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/armor/Armor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/armor/Helmet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/armor/Helmet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/armor/IArmor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/armor/IArmor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/armor/Kerasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/armor/Kerasa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/armor/Shild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/armor/Shild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/weapon/Axe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/weapon/Axe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/weapon/IWeapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/weapon/IWeapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/weapon/Spear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/weapon/Spear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/weapon/Sword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/weapon/Sword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/weapon/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/knight/inventory/weapon/Weapon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2FRrhC5H3bFq9tD9yOOQTj4FP0X" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/java/KnightFight",
+    "settings.editor.selected.configurable": "configurable.group.language"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="KnightFight" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,5 +106,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
